@@ -1,2 +1,0 @@
-# detectinglungdisease
-detecting lung disease
